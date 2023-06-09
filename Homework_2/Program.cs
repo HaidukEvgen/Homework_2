@@ -96,7 +96,7 @@ void TriangleArea()
 {
     var side1 = GetInt("Enter first side of the triangle:");
     var side2 = GetInt("Enter second side of the triangle:");
-    Console.WriteLine("Area of the rectangle = " + (double)side1 * side2 / 2);
+    Console.WriteLine("Area of the triangle = " + (double)side1 * side2 / 2);
 }
 void Calculator()
 {
